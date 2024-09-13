@@ -34,10 +34,12 @@ public class Searches {
     }
 
     public Stream<String> findUserIdByAnyProperFraction() {
+        //TODO
         return Stream.empty();
     }
 
     public Fraction findFractionMultiplicationByUserFamilyName(String familyName) {
+        //TODO
         return null;
     }
 
