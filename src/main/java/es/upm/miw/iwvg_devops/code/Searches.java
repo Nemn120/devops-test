@@ -34,22 +34,20 @@ public class Searches {
     }
 
     public Stream<String> findUserIdByAnyProperFraction() {
-        //TODO
+        //TODO TODO TODO
         return Stream.empty();
     }
 
     public Fraction findFractionMultiplicationByUserFamilyName(String familyName) {
-        //COMPLETAR
-        return null;
-    }
-
-    public Fraction findFirstFractionDivisionByUserId(String id) {
         //TODO
         return null;
     }
 
+    public Fraction findFirstFractionDivisionByUserId(String id) {
+        return null;
+    }
+
     public Double findFirstDecimalFractionByUserName(String name) {
-        //COMPLETANDO TEXTO
         return null;
     }
 
