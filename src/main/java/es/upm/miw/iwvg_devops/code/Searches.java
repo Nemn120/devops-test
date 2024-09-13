@@ -39,15 +39,17 @@ public class Searches {
     }
 
     public Fraction findFractionMultiplicationByUserFamilyName(String familyName) {
-        //TODO
+        //COMPLETAR
         return null;
     }
 
     public Fraction findFirstFractionDivisionByUserId(String id) {
+        //TODO
         return null;
     }
 
     public Double findFirstDecimalFractionByUserName(String name) {
+        //COMPLETANDO TEXTO
         return null;
     }
 
@@ -56,6 +58,7 @@ public class Searches {
     }
 
     public Stream<Double> findDecimalImproperFractionByUserName(String name) {
+        //TODO FALTA COMPLETAR TEXTO
         return Stream.empty();
     }
 
