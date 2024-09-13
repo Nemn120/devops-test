@@ -29,18 +29,23 @@ public class SearchesTest {
 
     //AVANZAR TOAMRA 4 DE ESOS
     void testFindUserIdByAnyProperFraction() {
+        //TODO
     }
 
     void testFindUserNameByAnyImproperFraction() {
+        //TODO
     }
 
     void testFindUserFamilyNameByAllSignFractionDistinct() {
+        //TODO
     }
 
     void testFindDecimalFractionByUserName() {
+        //TODO
     }
 
     void testFindDecimalFractionBySignFraction() {
+        //TODO
     }
 
     void testFindFractionAdditionByUserId() {
