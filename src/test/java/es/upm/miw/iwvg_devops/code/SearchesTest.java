@@ -49,11 +49,17 @@ public class SearchesTest {
     }
 
     void testFindFractionAdditionByUserId() {
+        //TODO
+
     }
 
     void testFindFractionSubtractionByUserName() {
+        //TODO
+
     }
 
     void testFindFractionMultiplicationByUserFamilyName() {
+        //TODO
+
     }
 }

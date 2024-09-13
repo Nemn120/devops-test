@@ -3,6 +3,7 @@ package es.upm.miw.iwvg_devops.code;
 import java.util.Objects;
 import java.util.stream.Stream;
 
+//TODO COMPLETAR METODOS
 public class Searches {
 
     public Stream<String> findUserFamilyNameByUserNameDistinct(String userName) {
@@ -33,10 +34,12 @@ public class Searches {
     }
 
     public Stream<String> findUserIdByAnyProperFraction() {
+        //TODO
         return Stream.empty();
     }
 
     public Fraction findFractionMultiplicationByUserFamilyName(String familyName) {
+        //TODO
         return null;
     }
 
