@@ -3,7 +3,6 @@ package es.upm.miw.iwvg_devops.code;
 import java.util.Objects;
 import java.util.stream.Stream;
 
-//TODO COMPLETAR TODO LOS METODOS RESTANTES
 public class Searches {
 
     public Stream<String> findUserFamilyNameByUserNameDistinct(String userName) {
