@@ -18,6 +18,7 @@ jobs:
         if: success() # always() failure() success()
         run: >
           mvn -B verify -DskipTests sonar:sonar
+          -Dsonar.projectName=devops-test
           -Dsonar.projectKey=Nemn120_devops-test
           -Dsonar.organization=sonnar-alvaro-fernando-chavez
           -Dsonar.host.url=https://sonarcloud.io
