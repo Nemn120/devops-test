@@ -12,7 +12,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <artifactId>webflux-achavez</artifactId>
+    <artifactId>devops-test</artifactId>
     <groupId>es.upm.miw</groupId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
